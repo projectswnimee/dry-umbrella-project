@@ -50,7 +50,7 @@ This project is a **smart umbrella heating system** designed to keep your umbrel
 ## 📷 Files Included
 - `DryUmbrella.ino` – Arduino source code
 - `circuit-diagram.png` – Wiring/circuit diagram
-- `project-photo.jpg` – Final build photo
+- `dry umbrella 2.jpg` – Final build photo
 
 ---
 
